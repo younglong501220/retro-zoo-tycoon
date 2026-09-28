@@ -1,0 +1,6 @@
+{
+  "name": "Retro Zoo Tycoon - 懷舊動物王國",
+  "description": "經典 16-bit 復古點陣風網頁版動物園經營遊戲，內建 8-bit 音效、遊客 AI、自繪地圖與園區營收管理系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
